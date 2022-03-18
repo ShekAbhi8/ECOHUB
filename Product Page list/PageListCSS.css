@@ -1,0 +1,33 @@
+.inThemiddle{
+    padding-top: 22px;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.photo{
+    height: 30%;
+    width: 50%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Switches{
+    height: 300px;
+    width: 500px;
+}
+
+.Kettles{
+    height: 350px;
+    width: 250px;
+}
+
+
